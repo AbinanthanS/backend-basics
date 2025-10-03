@@ -1,0 +1,30 @@
+[{
+    "name":"laptop",
+    "price":80000,
+    "quantity":5,
+    "userEmail":"abcd@gmail.com",
+    "productID":89282,
+    "images" : [
+        {
+            "image": "image1.jpg"
+        }
+    ],
+    "description":"A high performance laptop",
+    "category":"Electronics",
+    "brand":"Lenovo"
+},
+{
+    "name":"Mobile",
+    "price":8000,
+    "quantity":2,
+    "userEmail":"abcd5@gmail.com",
+    "productID":892823,
+    "images" : [
+        {
+            "image": "image2.jpg"
+        }
+    ],
+    "description":"A high performance mobile",
+    "category":"Electronics",
+    "brand":"redmi"
+}] 
